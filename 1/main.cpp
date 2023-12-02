@@ -10,8 +10,7 @@
 // Day One of Advent of Code.
 // There's a glaring algorithmic improvement I'd like to make, which is to search for the last number from the back of each line.
 // Also I'm pretty sure this method of accessing files line-by-line is terrible for performance...
-// Also need to figure out why I can't use iostream..."
-
+// Also need to figure out why I can't use iostream, but I'll save that for day 2's project.
 
 /**
 * Takes a ASCII character input, and returns numerical value
