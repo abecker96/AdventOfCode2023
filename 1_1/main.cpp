@@ -7,6 +7,13 @@
 #include <ctype.h>
 #include <stdint.h>
 
+// Day One of Advent of Code.
+// There's a glaring algorithmic improvement I'd like to make, which is to search for the last number from the back of each line.
+// Also I'm pretty sure this method of accessing files line-by-line is terrible...
+// And I haven't commented functions with appropriate headers.
+// Clean up comments tomorrow, probably never worry about the algorithm or file access stuff.
+// Also need to figure out why I can't use iostream..."
+
 uint8_t lazy_ctoi(char num)
 {
 	return num - '0';
